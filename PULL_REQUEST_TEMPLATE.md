@@ -31,7 +31,7 @@ This section covers the entire pull request in depth for internal usage.
 This section covers the pull request as it pertains to the end user.
 
 ## Description
-[Describe the puprose of this pull request from a user perspective]
+[Describe the purpose of this pull request from a user perspective]
 
 ## Breaking Changes
 [List any major, breaking changes for the user that were made in this pull request]
